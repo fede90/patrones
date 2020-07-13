@@ -9,4 +9,3 @@ Si varias subclases de Duck implementan el mismo comportamiento y es necesario m
 
 Usando strategy podemos cambiar el comportamiento en forma dinámica. Podemos pasar de FlyWithWings a FlyNoWay fácilmente.
 
-![Diagram](https://github.com/fede90/patrones/blob/master/strategy.png?raw=true)
