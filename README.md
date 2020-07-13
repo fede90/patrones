@@ -7,6 +7,6 @@ Con esta implementación la clase Duck no se encarga de implementar el comportam
 
 Si varias subclases de Duck implementan el mismo comportamiento y es necesario modificarlo solo vamos a estar alterando una clase, evitando duplicidad de código. 
 
-Usando strategy podemos cambiar el comportamiento en forma dinámica. Podemos pasar de FlyWithWings a FlyNoWay fácilmente.
+Usando strategy podemos cambiar el comportamiento en forma dinámica. Podemos pasar de FlyWithWings a FlyHelicopter fácilmente.
 
 ![Diagram](https://github.com/fede90/patrones/blob/master/strategy.png?raw=true)
